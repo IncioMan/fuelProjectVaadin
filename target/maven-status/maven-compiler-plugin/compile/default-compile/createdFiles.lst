@@ -1,0 +1,15 @@
+com\example\fuelProject\MyUI.class
+com\example\fuelProject\ui\DataTable.class
+com\example\fuelProject\ui\NumberValidator.class
+com\example\fuelProject\ui\GraphTab.class
+com\example\fuelProject\ui\DataTable$1$1.class
+com\example\fuelProject\ui\AddForm.class
+com\example\fuelProject\MyUI$MyUIServlet.class
+com\example\fuelProject\ui\DataTable$1.class
+com\example\fuelProject\data\FuelData.class
+com\example\fuelProject\ui\DataForm.class
+com\example\fuelProject\ui\TableTab.class
+com\example\fuelProject\ui\GraphLayout.class
+com\example\fuelProject\data\FuelDataContainer.class
+com\example\fuelProject\data\Service.class
+com\example\fuelProject\data\MonthConverter.class

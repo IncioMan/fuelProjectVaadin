@@ -1,0 +1,1 @@
+$wnd.com_example_fuelProject_MyAppWidgetset.runAsyncCallback2('Bfb(1637,1,X6d);_.vc=function Snc(){S7b((!L7b&&(L7b=new Y7b),L7b),this.a.d)};R_d(Zh)(2);\n//# sourceURL=com.example.fuelProject.MyAppWidgetset-2.js\n')
